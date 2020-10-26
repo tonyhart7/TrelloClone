@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994293362479",
+    "firebase_url": "https://projemana-b3a53.firebaseio.com",
+    "project_id": "projemana-b3a53",
+    "storage_bucket": "projemana-b3a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994293362479:android:5ccdf7e0932a736de17bda",
+        "android_client_info": {
+          "package_name": "com.projemanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994293362479-mk5m8jgsqgrpn2sgs178cden7p0fuccc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUj-0iZ9W0xTX9ox22xeS2IV_VEfMhysk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994293362479-mk5m8jgsqgrpn2sgs178cden7p0fuccc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

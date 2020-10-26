@@ -1,4 +1,4 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.app.Activity
 import android.content.Context
@@ -15,7 +15,6 @@ import com.google.android.material.navigation.NavigationView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.iid.FirebaseInstanceId
 import com.projemanag.R
-import com.projemanag.activities.MyProfileActivity
 import com.projemanag.adapters.BoardItemsAdapter
 import com.projemanag.firebase.FireStore
 import com.projemanag.model.Board

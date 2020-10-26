@@ -1,4 +1,4 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.app.Activity
 import android.content.Intent

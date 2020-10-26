@@ -1,4 +1,4 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.Manifest
 import android.app.Activity

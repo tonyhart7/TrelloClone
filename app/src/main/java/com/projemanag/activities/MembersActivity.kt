@@ -1,9 +1,8 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.app.Activity
 import android.app.Dialog
 import android.os.AsyncTask
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
@@ -17,7 +16,6 @@ import com.projemanag.model.Board
 import com.projemanag.model.User
 import com.projemanag.utils.Constants
 import kotlinx.android.synthetic.main.activity_members.*
-import kotlinx.android.synthetic.main.activity_task_list.*
 import kotlinx.android.synthetic.main.dialog_search_member.*
 import org.json.JSONObject
 import java.io.BufferedReader

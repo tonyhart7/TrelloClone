@@ -1,11 +1,9 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.app.Activity
 import android.app.AlertDialog
 import android.app.DatePickerDialog
-import android.app.Dialog
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
@@ -20,8 +18,6 @@ import com.projemanag.firebase.FireStore
 import com.projemanag.model.*
 import com.projemanag.utils.Constants
 import kotlinx.android.synthetic.main.activity_card_detail.*
-import kotlinx.android.synthetic.main.activity_members.*
-import kotlinx.android.synthetic.main.activity_my_profile.*
 import java.text.SimpleDateFormat
 import java.util.*
 import kotlin.collections.ArrayList

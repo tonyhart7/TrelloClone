@@ -14,7 +14,6 @@ import com.bumptech.glide.Glide
 import com.google.firebase.storage.FirebaseStorage
 import com.google.firebase.storage.StorageReference
 import com.projemanag.R
-import com.projemanag.activity.BaseActivity
 import com.projemanag.firebase.FireStore
 import com.projemanag.model.User
 import com.projemanag.utils.Constants

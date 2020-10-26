@@ -1,5 +1,4 @@
 package com.projemanag.fcm
-import android.app.Notification
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.app.PendingIntent
@@ -12,8 +11,8 @@ import androidx.core.app.NotificationCompat
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 import com.projemanag.R
-import com.projemanag.activity.MainActivity
-import com.projemanag.activity.SingInActivity
+import com.projemanag.activities.MainActivity
+import com.projemanag.activities.SingInActivity
 import com.projemanag.firebase.FireStore
 import com.projemanag.utils.Constants
 

@@ -1,4 +1,4 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.content.Intent
 import android.graphics.Typeface

@@ -1,4 +1,4 @@
-package com.projemanag.activity
+package com.projemanag.activities
 
 import android.os.Bundle
 import android.text.TextUtils

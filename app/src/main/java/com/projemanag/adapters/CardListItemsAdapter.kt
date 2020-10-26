@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.projemanag.R
-import com.projemanag.activity.TaskListActivity
+import com.projemanag.activities.TaskListActivity
 import com.projemanag.model.Card
 import com.projemanag.model.SelectedMembers
 import kotlinx.android.synthetic.main.item_card.view.*

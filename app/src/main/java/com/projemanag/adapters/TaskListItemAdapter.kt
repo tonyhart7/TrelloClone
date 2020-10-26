@@ -3,7 +3,6 @@ package com.projemanag.adapters
 import android.app.AlertDialog
 import android.content.Context
 import android.content.res.Resources
-import android.content.res.Resources.getSystem
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -14,7 +13,7 @@ import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.projemanag.R
-import com.projemanag.activity.TaskListActivity
+import com.projemanag.activities.TaskListActivity
 import com.projemanag.model.Task
 import kotlinx.android.synthetic.main.item_task.view.*
 import java.util.*

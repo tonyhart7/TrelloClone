@@ -7,7 +7,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.SetOptions
 import com.projemanag.activities.MyProfileActivity
-import com.projemanag.activity.*
+import com.projemanag.activities.*
 import com.projemanag.model.Board
 import com.projemanag.model.User
 import com.projemanag.utils.Constants

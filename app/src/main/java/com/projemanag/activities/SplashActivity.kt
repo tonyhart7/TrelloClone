@@ -20,9 +20,9 @@ class SplashActivity : AppCompatActivity() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN,
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         )
-        val typeface: Typeface =
-            Typeface.createFromAsset(assets, "carbon bl.ttf")
-        tv_app_name.typeface = typeface
+        // val typeface: Typeface =
+        // Typeface.createFromAsset(assets, "carbon bl.ttf")
+        // tv_app_name.typeface = typeface
 
         Handler().postDelayed({
 
@@ -33,6 +33,6 @@ class SplashActivity : AppCompatActivity() {
                 startActivity(Intent(this, IntroActivity::class.java))
             }
             finish()
-        }, 2500)
+        }, 1500)
     }
 }

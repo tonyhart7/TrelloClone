@@ -1,2 +1,4 @@
-# TrelloClone
-My First Project in Github and using kotlin and firestore 
+# TrelloClone or To Do List App
+
+You can manage multiple task/project for multiple person 
+

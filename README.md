@@ -10,7 +10,7 @@ Features include :
 - Manage Multiple Project and People
 
 Download : 
-- You can download the App from PlayStore (![alt text](https://play.google.com/store/apps/details?id=com.projemanag))
+- You can download the App from PlayStore ([link](https://play.google.com/store/apps/details?id=com.projemanag))
 
 Disclaimer : 
 
